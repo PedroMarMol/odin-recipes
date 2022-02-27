@@ -1,0 +1,19 @@
+.title {
+    background-color: blueviolet;
+    font-size: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}   
+
+.image {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
